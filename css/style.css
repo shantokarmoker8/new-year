@@ -192,6 +192,38 @@ a {
 .ellipse-right img {
   width: 70px;
 }
-/* -- -----------------------------------------start ellipse section area----------------------------------------- -- */
+/* -- -----------------------------------------end ellipse section area----------------------------------------- -- */
+/* -- -----------------------------------------start holidays section area----------------------------------------- -- */
+
+.holidays {
+  margin: 0 150px;
+  text-align: center;
+}
+.holidays h4 {
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.holidays h1 {
+  color: #070211;
+  font-size: 72px;
+  font-weight: 900;
+  margin-top: 16px;
+  margin-bottom: 28px;
+}
+.holidays h1 span {
+  color: #f00;
+}
+.holidays P {
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 50px;
+}
+.holidays img {
+  max-width: 100%;
+}
+/* -- -----------------------------------------end holidays section area----------------------------------------- -- */
 /* -----------------------------------------end midnight party section area----------------------------------------- */
 /* -- -----------------------------------------end main area----------------------------------------- -- */
