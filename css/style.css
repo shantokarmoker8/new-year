@@ -107,5 +107,37 @@ a {
   max-width: 200px;
   right: 50px;
 }
+/* -- -----------------------------------------start join now section area----------------------------------------- -- */
+.join-now {
+  margin: 0 150px;
+  background-image: url("../images/join-now-bg.png");
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding: 100px;
+}
+.join-now p {
+  color: #070211;
+  font-size: 32px;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.join-now p span {
+  color: #f00;
+}
+.join-now button {
+  color: #fff;
+  padding: 16px 32px;
+  border: none;
+  border-radius: 8px;
+  background: #f00;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 48px;
+  margin-bottom: 10px;
+}
+/* -- -----------------------------------------end join now section area----------------------------------------- -- */
 /* -----------------------------------------end midnight party section area----------------------------------------- */
 /* -- -----------------------------------------end main area----------------------------------------- -- */
