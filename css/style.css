@@ -36,3 +36,35 @@ p {
   font-weight: 900;
 }
 /* -- -----------------------------------------end header area----------------------------------------- -- */
+/* -- -----------------------------------------start main area----------------------------------------- -- */
+/* -- -----------------------------------------start categories section area----------------------------------------- -- */
+.categories {
+  margin: 70px auto;
+  text-align: center;
+}
+.categories h1 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 88px;
+  font-weight: 700;
+}
+.categories h4 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 48px;
+}
+.categories h2 {
+  color: #070211;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 16px;
+  margin-bottom: 48px;
+}
+.categories img {
+  width: 802.9px;
+}
+/* -- -----------------------------------------end categories section area----------------------------------------- -- */
+/* -- -----------------------------------------end main area----------------------------------------- -- */
