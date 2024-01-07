@@ -107,6 +107,7 @@ a {
   max-width: 200px;
   right: 50px;
 }
+/* -----------------------------------------end midnight party section area----------------------------------------- */
 /* -- -----------------------------------------start join now section area----------------------------------------- -- */
 .join-now {
   margin: 0 150px;
@@ -258,5 +259,47 @@ a {
   padding-top: 24px;
 }
 /* -- -----------------------------------------end protfolio section area----------------------------------------- -- */
-/* -----------------------------------------end midnight party section area----------------------------------------- */
+/* -----------------------------------------start subscribe section area----------------------------------------- */
+.subscribe {
+  border-radius: 16px;
+  background: rgba(255, 0, 0, 0.05);
+  margin: 0 150px;
+  text-align: center;
+  padding: 80px;
+  position: relative;
+}
+.subscribe h1 {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 900;
+  margin-top: 40px;
+  margin-bottom: 22px;
+}
+.subscribe p {
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+  font-weight: 400;
+}
+.subscribe input[type="email"] {
+  border: none;
+  border-radius: 50px 0px 0px 50px;
+  background: #fff;
+  color: rgba(7, 2, 17, 0.3);
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 25px 30px;
+}
+.subscribe input[type="submit"] {
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 0px 50px 50px 0px;
+  background: #f00;
+  border: none;
+  padding: 24px 56px;
+  margin-top: 48px;
+}
+/* -----------------------------------------end subscribe party section area----------------------------------------- */
 /* -- -----------------------------------------end main area----------------------------------------- -- */
