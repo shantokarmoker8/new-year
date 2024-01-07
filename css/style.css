@@ -139,5 +139,59 @@ a {
   margin-bottom: 10px;
 }
 /* -- -----------------------------------------end join now section area----------------------------------------- -- */
+/* -- -----------------------------------------start ellipse section area----------------------------------------- -- */
+.ellipse {
+  margin: 120px 150px;
+  display: flex;
+  align-items: center;
+}
+
+.coming-soon h3 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.coming-soon h1 {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 900;
+  margin-top: 16px;
+  margin-bottom: 22px;
+}
+.coming-soon p {
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+  font-weight: 400;
+}
+.ellipse-img {
+  background-image: url("../images/Ellipse-bg.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding: 30px;
+  margin: 0 20px;
+}
+.ellipse-img img {
+  width: 310px;
+}
+
+.ellipse-right h1 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+}
+.ellipse-right p {
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+  font-weight: 400;
+  margin-top: 16px;
+  margin-bottom: 33px;
+}
+.ellipse-right img {
+  width: 70px;
+}
+/* -- -----------------------------------------start ellipse section area----------------------------------------- -- */
 /* -----------------------------------------end midnight party section area----------------------------------------- */
 /* -- -----------------------------------------end main area----------------------------------------- -- */
