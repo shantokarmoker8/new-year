@@ -1,0 +1,38 @@
+/* font-family: 'Inter', sans-serif;
+font-family: 'Merriweather', serif; */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Merriweather", serif;
+}
+p {
+  font-family: "Inter", sans-serif;
+}
+/* -- -----------------------------------------start header area----------------------------------------- -- */
+.header-area {
+  margin: 50px 150px;
+  padding: 150px 0;
+  color: #fff;
+  text-align: center;
+  background-image: url("../images/header-bg2.png"),
+    url("../images/header-bg.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.header-area h3 {
+  font-size: 32px;
+  font-weight: 400;
+}
+.header-area h1 {
+  font-size: 72px;
+  font-weight: 900;
+}
+/* -- -----------------------------------------end header area----------------------------------------- -- */
