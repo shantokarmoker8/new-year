@@ -144,6 +144,7 @@ a {
   margin: 120px 150px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 
 .coming-soon h3 {
@@ -222,8 +223,40 @@ a {
   margin-bottom: 50px;
 }
 .holidays img {
-  max-width: 100%;
+  width: 100%;
 }
 /* -- -----------------------------------------end holidays section area----------------------------------------- -- */
+/* -- -----------------------------------------start protfolio section area----------------------------------------- -- */
+.protfolio {
+  margin: 120px 150px;
+}
+.protfolio h3 {
+  color: #f00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.protfolio h1 {
+  color: #070211;
+  font-size: 48px;
+  font-weight: 900;
+  margin-top: 16px;
+  margin-bottom: 22px;
+}
+.protfolio p {
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+  font-weight: 400;
+  padding-bottom: 40px;
+}
+.product .img {
+  display: flex;
+  justify-content: space-between;
+}
+.product img {
+  width: 330px;
+  padding-top: 24px;
+}
+/* -- -----------------------------------------end protfolio section area----------------------------------------- -- */
 /* -----------------------------------------end midnight party section area----------------------------------------- */
 /* -- -----------------------------------------end main area----------------------------------------- -- */
