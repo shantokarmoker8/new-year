@@ -16,6 +16,9 @@ h6 {
 p {
   font-family: "Inter", sans-serif;
 }
+a {
+  text-decoration: none;
+}
 /* -- -----------------------------------------start header area----------------------------------------- -- */
 .header-area {
   margin: 50px 150px;
@@ -67,4 +70,42 @@ p {
   width: 802.9px;
 }
 /* -- -----------------------------------------end categories section area----------------------------------------- -- */
+/* -----------------------------------------start midnight party section area----------------------------------------- */
+.midnight-party {
+  background-image: url("../images/midnight-party-shadow.png"),
+    url("../images/midnight-party.png");
+  max-width: 100%;
+  background-repeat: no-repeat;
+  padding: 100px 70px;
+  margin: 120px 150px;
+  background-size: cover;
+  display: flex;
+  position: relative;
+}
+.midnight-party h1 {
+  color: #fff;
+  font-size: 64px;
+  font-weight: 900;
+}
+.midnight-party p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  font-weight: 400;
+  margin: 24px 0;
+}
+.midnight-party a {
+  color: #fff;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-left: 32px;
+  margin-top: 24px;
+}
+.midnight-party img {
+  position: absolute;
+  max-width: 200px;
+  right: 50px;
+}
+/* -----------------------------------------end midnight party section area----------------------------------------- */
 /* -- -----------------------------------------end main area----------------------------------------- -- */
