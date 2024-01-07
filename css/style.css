@@ -21,7 +21,7 @@ a {
 }
 /* -- -----------------------------------------start header area----------------------------------------- -- */
 .header-area {
-  margin: 50px 150px;
+  margin: 50px 140px;
   padding: 150px 0;
   color: #fff;
   text-align: center;
@@ -77,7 +77,7 @@ a {
   max-width: 100%;
   background-repeat: no-repeat;
   padding: 100px 70px;
-  margin: 120px 150px;
+  margin: 120px 140px;
   background-size: cover;
   display: flex;
   position: relative;
@@ -110,7 +110,7 @@ a {
 /* -----------------------------------------end midnight party section area----------------------------------------- */
 /* -- -----------------------------------------start join now section area----------------------------------------- -- */
 .join-now {
-  margin: 0 150px;
+  margin: 0 140px;
   background-image: url("../images/join-now-bg.png");
   text-align: center;
   background-repeat: no-repeat;
@@ -142,7 +142,7 @@ a {
 /* -- -----------------------------------------end join now section area----------------------------------------- -- */
 /* -- -----------------------------------------start ellipse section area----------------------------------------- -- */
 .ellipse {
-  margin: 120px 150px;
+  margin: 120px 140px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -198,7 +198,7 @@ a {
 /* -- -----------------------------------------start holidays section area----------------------------------------- -- */
 
 .holidays {
-  margin: 0 150px;
+  margin: 0 140px;
   text-align: center;
 }
 .holidays h4 {
@@ -229,7 +229,7 @@ a {
 /* -- -----------------------------------------end holidays section area----------------------------------------- -- */
 /* -- -----------------------------------------start protfolio section area----------------------------------------- -- */
 .protfolio {
-  margin: 120px 150px;
+  margin: 120px 140px;
 }
 .protfolio h3 {
   color: #f00;
@@ -263,7 +263,7 @@ a {
 .subscribe {
   border-radius: 16px;
   background: rgba(255, 0, 0, 0.05);
-  margin: 0 150px;
+  margin: 0 140px;
   text-align: center;
   padding: 80px;
   position: relative;
@@ -303,3 +303,41 @@ a {
 }
 /* -----------------------------------------end subscribe party section area----------------------------------------- */
 /* -- -----------------------------------------end main area----------------------------------------- -- */
+/* -- -----------------------------------------start footer area----------------------------------------- -- */
+.footer-area {
+  background: #070211;
+  padding: 120px 140px;
+}
+.contact {
+  display: flex;
+  justify-content: space-between;
+}
+.contact h3,
+h4 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+.social {
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-left: none;
+  border-right: none;
+  text-align: center;
+  padding: 48px;
+  margin: 50px 0;
+}
+.social img {
+  padding: 0 24px;
+}
+.copyright {
+  display: flex;
+  justify-content: space-between;
+}
+.copyright h3 {
+  color: #fff;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+/* -- -----------------------------------------end footer area----------------------------------------- -- */
